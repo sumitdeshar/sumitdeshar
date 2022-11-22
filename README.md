@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitdeshar
 - 👀 I’m interested in learning cloud services.
-- 🌱 I’m currently learning frontend programming concepts with js
-- 💞️ I’m looking to collaborate on some small tier projects
+- 🌱 I’m currently learning responsive web desigining
+- 💞️ I’m looking to collaborate on some smaller projects
 - 📫 How to reach me https://www.facebook.com/sumeetdsr/
 
 <!---
