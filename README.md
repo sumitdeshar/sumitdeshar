@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sumitdeshar
-- 👀 I’m interested in learning cloud services.
-- 🌱 I’m currently learning responsive web desigining
-- 💞️ I’m looking to collaborate on some smaller projects
+- 👀 I’m interested in Full-stack Web dev.
+- 🌱 I’m currently learning React for the development of some projects.
+- 💞️ I’m looking to collaborate on some smaller projects and putting my skill to use.
 - 📫 How to reach me https://www.facebook.com/sumeetdsr/
+- You can also reach me by this mobile number : +977 9843724153
 
 <!---
 sumitdeshar/sumitdeshar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
