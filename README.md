@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumitdeshar
-- 👀 I’m interested in Full-stack Web dev.
-- 🌱 I’m currently learning React for the development of some projects.
+- 👋 Hi, I’m @sumitdeshar a Computer Engineer.
+- 👀 I’m interested in Backend Dev.
+- 🌱 I’m currently mastering what Python can do.
 - 💞️ I’m looking to collaborate on some smaller projects and putting my skill to use.
 - 📫 How to reach me https://www.facebook.com/sumeetdsr/
 - You can also reach me by this mobile number : +977 9843724153
