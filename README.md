@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sumit Deshar!
-I'm a **Computer Engineering student** passionate about **Backend Development** and **Python**.
+A curious **Computer Engineering** passionate about backend development and building scalable systems. I enjoy crafting solutions from scratch and bringing ideas to life through clean, practical code.
 
 💻 **Tech Stack**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
