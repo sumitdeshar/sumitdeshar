@@ -1,5 +1,13 @@
 ### 👋 Hi, I'm Sumit Deshar!
-A curious **Computer Engineering** passionate about backend development and building scalable systems. I enjoy crafting solutions from scratch and bringing ideas to life through clean, practical code.
+Hi there! 👋 I'm an aspiring software developer with a strong interest in Backend Development and Machine Learning. I'm currently honing my skills in backend systems using Python, where I enjoy building clean, scalable APIs and working with databases to bring applications to life.
+
+I'm also exploring the exciting world of Machine Learning — learning how to turn data into insights and smart solutions. On the frontend side, I have working knowledge of React.js and Flutter, which helps me understand how different parts of an application connect and function together.
+
+I'm comfortable with tools like Git, Docker, and Postman, and I'm always looking to improve my workflow and understanding of real-world development practices.
+
+As someone starting out, I'm eager to learn, contribute, and grow into a developer who writes code that solves real problems — both on the backend and with data.
+
+Let’s build something great together! 🚀
 
 💻 **Tech Stack**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
